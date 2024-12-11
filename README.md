@@ -1,5 +1,7 @@
 # Readme
 
+It took me 9 hours (2 P.M. - 11 P.M.) to complete this assignment.
+
 1. I have used vite for faster development. I created a react app using vite and at first and installed the modules and packages that were required for this project such as react-router-dom and all.
 2. I have used Tailwind css and font awesome for faster styling.
 3. I created a file named Topbar and created the topbar with title and navs(only Home).
